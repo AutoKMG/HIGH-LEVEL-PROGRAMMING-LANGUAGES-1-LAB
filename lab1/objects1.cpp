@@ -18,6 +18,10 @@ int main(){
 	cout << s;
 	cout << a << '\n';
 	cout << f << ' ' << d << '\n';
+	cin >> s;
+	cin >> d;
+	cout << s << '\n';
+	cout << d << '\n';
 	
 	return 0;
 }
